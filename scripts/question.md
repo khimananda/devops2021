@@ -35,13 +35,11 @@ echo “All the” $HOSTNAME “IP addresses”
 
 hostname -I
 
-Close configuration window
-
-    Open a terminal and navigate to your home directory. To make the script executable, enter chmod 755 info.sh at prompt.
-    At the prompt, enter ./info.sh to execute the script.
+3.    Open a terminal and navigate to your home directory. To make the script executable, enter chmod 755 info.sh at prompt.
+4.    At the prompt, enter ./info.sh to execute the script.
 
 Questions:
 
 # What is the output of the script?
 
-Type your answer here.
+
