@@ -9,7 +9,7 @@ Depending on your version of Unix-like OS, you may find other text editor tool, 
 1.    Start up a Linux computer or VM.
 2.    Use a text editor tool and create a file named **info.sh** in your home directory with the following text:
 
-  #!/bin/bash
+  `#!/bin/bash
   echo “Computer name is: “  $HOSTNAME
   echo “Operating System is:”
   cat /etc/os-release | grep PRETTY_NAME
@@ -20,7 +20,7 @@ Depending on your version of Unix-like OS, you may find other text editor tool, 
   echo “The disks that are installed and their freespace“
   df -h
   echo “All the” $HOSTNAME “IP addresses”
-  hostname -I
+  hostname -I`
 
 3.    Open a terminal and navigate to your home directory. To make the script executable, enter chmod 755 info.sh at prompt.
 4.    At the prompt, enter ./info.sh to execute the script.
