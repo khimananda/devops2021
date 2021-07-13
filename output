@@ -1,0 +1,18 @@
+
+Computer name is: ip-172-31-11-137.us-east-2.compute.internal
+Operating system is:
+PRETTY_NAME="AMAZON LINUX 2"
+CPU is
+Intel(R) Xeon(R) CPU E5-2676 v3 @ 2.40GHz
+./info.sh: line 7: echoTotal memory is: command not found
+MemTotal:          1006892 kB
+The disks that are installed and their freespace
+Filesystem Size  Used  Avail Use% Mounted on
+devtmpfs   482M  0     482M  0%   /dev
+tmpfs      492M  0     492M  0%   /dev/shm
+tmpfs      492M  416K  492M  1%   /run
+tmpfs      492M  0     492M  0%   /sys/fs/cgroup
+/dev/xvda1 8.0G  1.5G  6.6G  19%  /
+tmpfs      99M   0     99M   0%   /run/user/1000
+All the ip-172-31-11-137.us-east-2.compute.internal IP addresses
+172.31.11.137
