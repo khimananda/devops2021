@@ -1,5 +1,7 @@
 # **This is my output**
 
+,,,
+
 - Computer name is: bm
 - Operating System is:Ubuntu 20.04.2 LTS
 
@@ -30,3 +32,5 @@
 - “All the” bm “IP addresses”
 
  10.0.2.15
+
+ '''
