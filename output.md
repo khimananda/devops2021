@@ -1,10 +1,9 @@
 # **This is my output**
-“Computer name is: “ bm
-“Operating System is:”
-PRETTY_NAME="Ubuntu 20.04.2 LTS"
-“CPU is”
-grep: name:”: No such file or directory
-sed: -e expression #1, char 1: unknown command: `�'
+
+Computer name is: bm
+Operating System is:Ubuntu 20.04.2 LTS
+
+CPU is
 “Total Memory is”
 “The disks that are installed and their freespace“
 Filesystem      Size  Used Avail Use% Mounted on
